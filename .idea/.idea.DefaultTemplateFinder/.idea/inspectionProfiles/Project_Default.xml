@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CheckDtdRefs" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="CheckTagEmptyBody" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Problems" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlDefaultAttributeValue" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Problems" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlDeprecatedElement" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Problems" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlDuplicatedId" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlHighlighting" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlInvalidId" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlPathReference" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlUnboundNsPrefix" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Problems" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Problems" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="XmlWrongRootElement" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Problems" level="ERROR" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
