@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:DefaultTemplateFinder"
         xmlns:avalonEdit="http://icsharpcode.net/sharpdevelop/avalonedit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="1024">
+        Title="WPF - DefaultTemplateFinder"
+        Height="500"
+        Width="1024">
     <Window.Resources>
         <Style TargetType="{x:Type TextBlock}">
             <Setter Property="Margin" Value="0,0,10,0" />
